@@ -1,0 +1,66 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Bluetooth Speaker,Electronics,3733.23,3259.27
+2,Wireless Earbuds,Electronics,2482.35,2094.57
+3,Smartphone,Electronics,23405.06,20238.8
+4,Laptop,Electronics,76675.2,65645.64
+5,Smart Watch,Electronics,3163.16,2654.76
+6,USB-C Hub,Electronics,902.21,618.54
+7,Webcam,Electronics,5369.59,4256.54
+8,Mechanical Keyboard,Electronics,1810.83,1300.13
+9,Gaming Mouse,Electronics,889.63,619.56
+10,Portable Charger,Electronics,2243.22,1521.34
+11,Men's T-Shirt,Clothing,337.0,151.08
+12,Women's Kurta,Clothing,2399.88,1029.83
+13,Denim Jeans,Clothing,1170.86,686.25
+14,Winter Jacket,Clothing,3243.86,1859.17
+15,Sports Shoes,Clothing,2582.63,1595.94
+16,Saree,Clothing,2884.69,1861.48
+17,Kids Dress,Clothing,1157.41,575.25
+18,Formal Shirt,Clothing,728.19,426.7
+19,Leggings,Clothing,224.2,113.02
+20,Ethnic Wear Set,Clothing,3117.91,1902.31
+21,Non-Stick Cookware Set,Home & Kitchen,1506.38,788.85
+22,Air Fryer,Home & Kitchen,5809.47,3925.14
+23,Mixer Grinder,Home & Kitchen,3287.32,2484.03
+24,Bedsheet Set,Home & Kitchen,513.71,254.01
+25,Water Purifier,Home & Kitchen,14341.88,11695.31
+26,Dinner Set,Home & Kitchen,1997.76,1306.47
+27,Vacuum Cleaner,Home & Kitchen,10513.4,7510.94
+28,Electric Kettle,Home & Kitchen,1086.18,722.05
+29,Pressure Cooker,Home & Kitchen,3224.41,2119.01
+30,Room Freshener Pack,Home & Kitchen,654.32,300.77
+31,Data Science Handbook,Books,610.88,248.29
+32,Fiction Novel,Books,534.92,249.27
+33,Self Help Book,Books,361.52,208.76
+34,Engineering Textbook,Books,1274.29,864.8
+35,Children's Story Book,Books,475.58,256.28
+36,Cookbook,Books,754.86,356.94
+37,History Book,Books,413.24,190.94
+38,Business Strategy Book,Books,488.32,244.82
+39,Yoga Mat,Sports & Fitness,884.7,466.45
+40,Dumbbell Set,Sports & Fitness,3520.89,2302.8
+41,Resistance Bands,Sports & Fitness,1101.08,452.86
+42,Cricket Bat,Sports & Fitness,1258.82,900.36
+43,Badminton Racket Set,Sports & Fitness,432.14,230.8
+44,Cycling Helmet,Sports & Fitness,3081.07,1967.97
+45,Skipping Rope,Sports & Fitness,764.42,347.0
+46,Gym Gloves,Sports & Fitness,692.16,278.83
+47,Face Moisturizer,Beauty & Personal Care,981.96,458.52
+48,Hair Serum,Beauty & Personal Care,742.01,302.62
+49,Sunscreen SPF50,Beauty & Personal Care,463.01,140.13
+50,Lipstick Set,Beauty & Personal Care,1335.82,574.8
+51,Men's Grooming Kit,Beauty & Personal Care,1732.36,698.34
+52,Perfume,Beauty & Personal Care,4336.92,1930.71
+53,Shampoo & Conditioner,Beauty & Personal Care,884.73,292.53
+54,Organic Honey,Grocery & Gourmet,757.1,484.02
+55,Dry Fruits Mix,Grocery & Gourmet,818.94,496.59
+56,Green Tea Pack,Grocery & Gourmet,278.74,178.2
+57,Protein Powder,Grocery & Gourmet,1537.49,1094.45
+58,Instant Oats,Grocery & Gourmet,268.27,127.35
+59,Cold Press Juice,Grocery & Gourmet,183.24,116.63
+60,LEGO Building Set,Toys & Games,577.4,315.21
+61,Board Game,Toys & Games,2286.79,1348.27
+62,Remote Control Car,Toys & Games,1771.35,945.86
+63,Puzzle Set,Toys & Games,1364.72,627.62
+64,Action Figure,Toys & Games,403.87,168.06
+65,Educational Kit,Toys & Games,1616.14,830.1

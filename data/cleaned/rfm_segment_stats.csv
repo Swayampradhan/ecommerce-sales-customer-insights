@@ -1,0 +1,9 @@
+segment,customer_count,avg_recency,avg_frequency,avg_monetary,total_revenue,revenue_share_pct
+Champions,1068,26.6,26.1,338673.0,361702778.1,58.1
+Loyal Customers,1031,76.5,9.5,120853.5,124599946.4,20.0
+At Risk,434,215.8,7.2,116983.3,50770763.8,8.2
+Lost,986,445.8,3.4,27791.9,27402824.5,4.4
+Cannot Lose Them,230,438.7,5.8,109732.9,25238558.5,4.1
+Hibernating,554,224.4,3.8,27882.6,15446941.9,2.5
+Potential Loyalists,495,35.9,4.2,29558.4,14631420.4,2.4
+Promising,175,113.8,3.1,15440.5,2702095.9,0.4
