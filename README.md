@@ -371,7 +371,8 @@ E-Commerce Sales & Customer Analytics | SQL · Python · Pandas · Power BI
 ---
 
 ## 👤 Author
+**Swayam Prakash Pradhan**
+Data Analyst | SQL | Python | Power BI
+📧 **Email:** swayamprakashpradhan456@gmail.com 
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/swayam-pradhan2002/)
 
-Built as a portfolio project for Data Analyst roles (SQL + Python + Power BI).
-
-*Dataset is synthetic and generated for demonstration purposes.*
