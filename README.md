@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales & Customer Analytics
+# 📊 E-Commerce Sales & Customer Insights
 
 > **SQL · Python · Pandas · Power BI** — End-to-end data analytics portfolio project
 
